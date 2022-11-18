@@ -2,3 +2,8 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.speaker-image {
+    height: 300px;
+    width:100%;
+}
